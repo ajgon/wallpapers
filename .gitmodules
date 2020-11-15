@@ -1,0 +1,4 @@
+[submodule "dwt1"]
+	path = dwt1
+	url = https://gitlab.com/dwt1/wallpapers
+	branch = master
